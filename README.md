@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piklu Biswas
 - 👀 I’m interested in Native app development
 - 🌱 I’m currently learning app devoloment next Level
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on best app company
 - 📫Reach me through Email piklubiswas143@gmail.com
 
 <!---
